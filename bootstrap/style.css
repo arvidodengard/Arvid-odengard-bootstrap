@@ -18,7 +18,7 @@
     }
     
     .ID {
-        background-color: darkorange;
+        background-color: rgb(196, 164, 124);
         color:darkviolet;
     }
     
@@ -27,7 +27,7 @@
     }
     
     .Responsive {
-        background-color: darkorange;
+        background-color: rgb(196, 164, 124);
         color:darkviolet;
     }
     
@@ -36,7 +36,7 @@
     }
     
     .Compressed-data {
-        background-color: darkorange;
+        background-color: rgb(196, 164, 124);
         color:darkviolet;
     }
     
@@ -45,7 +45,7 @@
     }
     
     .JQuery {
-        background-color: darkorange;
+        background-color: rgb(196, 164, 124);
         color:darkviolet;
     }
     
@@ -54,6 +54,6 @@
     }
     
     .Code-snippets {
-        background-color: darkorange;
+        background-color: rgb(196, 164, 124);
         color:darkviolet;
     }
